@@ -1,20 +1,35 @@
+<div align="center">
+
 # 🕵️ The Case of the Missing Hour
 
+### *Not everyone who lies is a murderer. And not every truth is easy to uncover....*
+
 ### An AI-Powered Interactive Detective Mystery
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stanford-Code%20in%20Place-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Genre-Detective%20Mystery-black?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&pause=1500&color=8B0000&center=true&vCenter=true&width=700&lines=A+locked+room.+Four+suspects.+One+missing+hour.;The+clock+stopped+at+10%3A17+PM.;Every+suspect+has+a+secret.;Can+you+uncover+the+truth%3F" />
+</p>
 
 *A story-driven Python investigation set in the monsoon-soaked countryside of West Bengal, India.*
 
 ---
 
-<p align="center">
+### 🌧️ A locked room. Four suspects. One missing hour.
 
-**A locked room. Four suspects. One missing hour.**
+</div>
 
-</p>
+---
 
-## 📖 About the Project
+# 📖 About the Project
 
-**The Case of the Missing Hour** is an interactive, command-based detective mystery game developed in Python as my final project for the **Stanford Code in Place (CIP) program**.
+The Case of the Missing Hour is an interactive, command-based detective mystery game developed in Python as my final project for the Stanford Code in Place (CIP) program.
 
 The game places the player in the role of a detective investigating a mysterious murder at an old ancestral mansion near Shantiniketan, West Bengal, India. Through exploration, evidence collection, suspect interrogation, and deduction, the player must uncover the truth behind a seemingly impossible locked-room murder.
 
@@ -24,15 +39,15 @@ Rather than being a simple chatbot, the game uses Python to control its world, c
 
 ---
 
-## 🎭 The Story
+# 🎭 The Story
 
-### Chapter 1 — The Storm
+## Chapter 1 — The Storm
 
-It is the night of **15 August 2026**.
+It is the night of 15 August 2026.
 
-Heavy monsoon rain falls over the countryside near Shantiniketan. Hidden among trees, ponds, and narrow village roads stands **Roy Chowdhury Bari**, an old ancestral mansion belonging to Dr. Arindam Roy Chowdhury.
+Heavy monsoon rain falls over the countryside near Shantiniketan. Hidden among trees, ponds, and narrow village roads stands Roy Chowdhury Bari, an old ancestral mansion belonging to Dr. Arindam Roy Chowdhury.
 
-Dr. Arindam is a respected engineer, entrepreneur, and inventor. His life's work is **Project Surya**, a revolutionary energy-storage technology that could have enormous commercial and scientific value.
+Dr. Arindam is a respected engineer, entrepreneur, and inventor. His life's work is Project Surya, a revolutionary energy-storage technology that could have enormous commercial and scientific value.
 
 At approximately 11:05 PM, a frantic call reports that Dr. Arindam has been found dead inside his study.
 
@@ -44,7 +59,7 @@ But one detail catches the detective's attention.
 
 The clock inside the study has stopped at exactly:
 
-**10:17 PM.**
+> **10:17 PM.**
 
 The murder appears to have occurred during a mysterious missing hour in which the events inside the mansion remain uncertain.
 
@@ -58,9 +73,9 @@ And one of them is a murderer.
 
 ---
 
-## 🏛️ The Setting
+# 🏛️ The Setting
 
-The game takes place entirely around **Roy Chowdhury Bari**, a fictional ancestral mansion near Shantiniketan in West Bengal.
+The game takes place entirely around Roy Chowdhury Bari, a fictional ancestral mansion near Shantiniketan in West Bengal.
 
 The setting incorporates an atmosphere inspired by:
 
@@ -76,11 +91,13 @@ The mansion's isolated atmosphere is central to the mystery. Heavy rain limits m
 
 ---
 
-## 👥 The Suspects
+# 👥 The Suspects
 
 There are four suspects. Each has a motive, an alibi, a personality, and secrets that may make them appear guilty.
 
-### 1. Ananya Roy Chowdhury — The Wife
+---
+
+## 1. Ananya Roy Chowdhury — The Wife
 
 **Relationship:** Wife of the victim
 
@@ -100,7 +117,7 @@ Her incomplete alibi and personal circumstances make her suspicious, but suspici
 
 ---
 
-### 2. Suman Das — The Caretaker
+## 2. Suman Das — The Caretaker
 
 **Relationship:** Long-time caretaker of Roy Chowdhury Bari
 
@@ -118,7 +135,7 @@ He is evasive about certain details, but he is not the murderer.
 
 ---
 
-### 3. Rohan Sen — The Business Partner
+## 3. Rohan Sen — The Business Partner
 
 **Relationship:** Business partner of Dr. Arindam
 
@@ -144,7 +161,7 @@ Rohan had much more to lose than he initially admitted.
 
 ---
 
-### 4. Dr. Meera Banerjee — The Scientist
+## 4. Dr. Meera Banerjee — The Scientist
 
 **Relationship:** Research scientist involved in Project Surya
 
@@ -167,6 +184,8 @@ Her anger makes her a plausible suspect, but she did not murder him.
 # 🔎 Investigation Locations
 
 The player can investigate different areas of the mansion. Each location contains a fixed piece of evidence that contributes to solving the mystery.
+
+---
 
 ## 1. The Study
 
@@ -198,7 +217,7 @@ The library contains hundreds of books, financial documents, and a cabinet that 
 
 ### Evidence: The Financial Ledger
 
-A financial ledger reveals suspicious payments made to **Meridian Tech Pvt. Ltd.**, a company in Mumbai.
+A financial ledger reveals suspicious payments made to Meridian Tech Pvt. Ltd., a company in Mumbai.
 
 The payments were authorized by Rohan Sen.
 
@@ -306,7 +325,7 @@ Something about the room suggests hurried activity.
 
 A compartment in Rohan's suitcase contains an empty USB-drive case labelled:
 
-**PROJECT SURYA — CONFIDENTIAL**
+> PROJECT SURYA — CONFIDENTIAL
 
 The drive itself is missing.
 
@@ -339,7 +358,7 @@ The mystery is solved by connecting evidence rather than relying on one suspicio
 # ⚠️ SPOILER SECTION — THE COMPLETE SOLUTION
 
 <details>
-<summary><strong>Click to reveal the murderer, plot twist, and complete explanation</strong></summary>
+<summary><strong>🔐 Click to reveal the murderer, plot twist, and complete explanation</strong></summary>
 
 ## The Murderer: Rohan Sen
 
@@ -413,7 +432,7 @@ He had feared that his partner would expose him.
 
 The investigation finally reveals the truth:
 
-Rohan Sen murdered Dr. Arindam Roy Chowdhury at 10:17 PM and used the hidden service passage to escape.
+> **Rohan Sen murdered Dr. Arindam Roy Chowdhury at 10:17 PM and used the hidden service passage to escape.**
 
 </details>
 
@@ -484,6 +503,8 @@ Conversation history is maintained separately for each suspect, allowing interro
 
 The goal is to create interactions that are more dynamic than predefined dialogue choices.
 
+---
+
 ## 2. Evidence Analysis
 
 The player can use the `analyze` command to request an AI-assisted analysis of collected evidence.
@@ -496,6 +517,8 @@ The AI is instructed to:
 - Highlight unanswered questions
 - Suggest useful next investigations
 - Avoid revealing the complete solution prematurely
+
+---
 
 ## 3. AI-Generated Epilogue
 
@@ -640,6 +663,8 @@ The project is designed to run in the Stanford Code in Place environment, which 
 
 The AI-powered features depend on access to the environment-provided `call_gpt()` function.
 
+> **Note:** This project uses the `call_gpt()` functionality provided by the Code in Place environment. Consequently, it may not run directly in a standard local Python environment without the corresponding environment support.
+
 ---
 
 # 🎯 Project Goals
@@ -688,10 +713,18 @@ The AI-generated dialogue and narrative are part of the game's fictional experie
 
 ---
 
-<p align="center">
+<div align="center">
 
-**The clock stopped at 10:17 PM.**
+---
 
-**Can you uncover what happened during the missing hour?**
+### 🕰️ The clock stopped at 10:17 PM.
 
+### 🔎 Can you uncover what happened during the missing hour?
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&pause=2000&color=8B0000&center=true&vCenter=true&width=600&lines=The+truth+is+hidden+in+the+evidence.;Question+everyone.;Trust+no+one.;Solve+the+case." />
 </p>
+
+**Every clue matters. Every suspect has a secret.**
+
+</div>
