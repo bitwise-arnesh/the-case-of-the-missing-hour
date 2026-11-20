@@ -6,6 +6,18 @@
 
 ### An AI-Powered Interactive Detective Mystery
 
+<p align="center">
+
+## 🎮 Play the Mystery
+
+<a href="https://codeinplace.stanford.edu/cipx/share/YQXnz6v9sc92HWeqed5e">
+  <img src="https://img.shields.io/badge/▶%20PLAY%20THE%20GAME-8B0000?style=for-the-badge&logoColor=white" />
+</a>
+
+**Experience the mystery yourself. Investigate the mansion, interrogate suspects, uncover hidden clues and solve the case!**
+
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=openai&logoColor=white" />
